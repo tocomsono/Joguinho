@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "bg/background",
+	"frame": {"x":0,"y":508,"w":2043,"h":1182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2043,"h":1182},
+	"sourceSize": {"w":2043,"h":1182}
+},
+{
+	"filename": "bg/bgclouds",
+	"frame": {"x":1144,"y":0,"w":1637,"h":508},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1637,"h":508},
+	"sourceSize": {"w":1637,"h":508}
+},
+{
+	"filename": "bg/path",
+	"frame": {"x":0,"y":1690,"w":2414,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2414,"h":139},
+	"sourceSize": {"w":2414,"h":139}
+},
+{
+	"filename": "coin/coin",
+	"frame": {"x":431,"y":0,"w":174,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":179},
+	"sourceSize": {"w":174,"h":179}
+},
+{
+	"filename": "obstacles/rock",
+	"frame": {"x":605,"y":0,"w":257,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":228},
+	"sourceSize": {"w":257,"h":228}
+},
+{
+	"filename": "obstacles/tree",
+	"frame": {"x":862,"y":0,"w":282,"h":455},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":455},
+	"sourceSize": {"w":282,"h":455}
+},
+{
+	"filename": "player/personagemrun1",
+	"frame": {"x":275,"y":0,"w":156,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":254},
+	"sourceSize": {"w":156,"h":254}
+},
+{
+	"filename": "player/personagemrunelbow",
+	"frame": {"x":128,"y":0,"w":147,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":254},
+	"sourceSize": {"w":147,"h":254}
+},
+{
+	"filename": "player/personagemstill",
+	"frame": {"x":0,"y":0,"w":128,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":254},
+	"sourceSize": {"w":128,"h":254}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":2781,"h":1829},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d274cda11fe5a5ce9efbfdbfd3477ca9:9ccf72751df2b73195d84206176c09f5:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}
